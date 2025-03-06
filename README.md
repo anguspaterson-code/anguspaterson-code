@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @anguspaterson-code
+- 👋 Hi, I’m Angus
 - 👀 I’m interested in ...
-- changing the world
+- beers, runescape, IT and binge watching shows whilst
 - 🌱 I’m currently learning ...
-- Reading books
-- "Think like a startup" - Steve Sammartino
+-  All things tech
 - 💞️ I’m looking to collaborate on ...
-- Entreprenueral Adventures
+- all sorts of different projects, im still a newbie.
 - 📫 How to reach me ...
 
 <!---
